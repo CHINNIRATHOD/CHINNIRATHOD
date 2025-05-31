@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @CHINNIRATHOD
 
 - 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, and Full-Stack Development**  
-- 🌱 I’m currently learning **Advanced Deep Learning, Model Deployment, and Real-Time Data Integration**  
+- 🌱 I’m currently learning **in DAYANANDA SAGAR UIVERSITY**  
 - 💞️ I’m looking to collaborate on **AI/ML projects, Open Source Contributions, and End-to-End Product Development**  
 - 📫 How to reach me:  
-  - Email: [your-email@example.com]  
+  - Email: [gandhikumarrathod@gmail.com]  
   - LinkedIn: [linkedin.com/in/chinnirathod-gandhikumar](https://www.linkedin.com/in/chinnirathod-gandhikumar-347390315/)  
   - GitHub: [github.com/CHINNIRATHOD](https://github.com/CHINNIRATHOD)  
 - 😄 Pronouns: **He/Him**  
