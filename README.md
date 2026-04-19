@@ -1,16 +1,37 @@
-# 👋 Hi, I’m @CHINNIRATHOD
+# 👋 Hi, I'm Chinnirathod Gandhikumar
 
-- 👀 I’m interested in **Machine Learning, Deep Learning, Data Science, and Full-Stack Development**  
-- 🌱 I’m currently learning **in DAYANANDA SAGAR UIVERSITY**  
-- 💞️ I’m looking to collaborate on **AI/ML projects, Open Source Contributions, and End-to-End Product Development**  
-- 📫 How to reach me:  
-  - Email: gandhikumarrathod@gmail.com 
-  - LinkedIn: linkedin.com/in/chinnirathod-gandhikumar (https://www.linkedin.com/in/chinnirathod-gandhikumar-347390315/)  
-  - GitHub: github.com/CHINNIRATHOD (https://github.com/CHINNIRATHOD)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *I believe clean code is a form of art*
+🎯 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning  
 
-<!---
-CHINNIRATHOD/CHINNIRATHOD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+- 🎓 Pre-final year Computer Science student at Dayananda Sagar University  
+- 📊 Passionate about Data Analysis, Machine Learning, and Data Visualization  
+- 💻 Skilled in Python, SQL, Pandas, NumPy, and Power BI  
+- 📈 Interested in solving real-world problems using data  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Tools:** Power BI, Excel, Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📂 Featured Projects
+- 📊 IPL Score Prediction (Machine Learning)  
+- 📈 Stock Price Prediction using LSTM  
+- 📉 Data Visualization Dashboard (Power BI)  
+
+---
+
+## 🤝 Let's Connect
+- 📧 Email: gandhikumarrathod@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/chinnirathod-gandhikumar-347390315/  
+- 💻 GitHub: https://github.com/CHINNIRATHOD  
+
+---
+
+## ⚡ Fun Fact
+I believe clean code is a form of art 🎨
