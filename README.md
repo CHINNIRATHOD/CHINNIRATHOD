@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chinnirathod Gandhikumar
 
-🎯 Aspiring /Data Scientis/Data Analyst | Python | SQL | Power BI | Machine Learning  
+🎯 Aspiring Data Scientis/Data Analyst | Python | SQL | Power BI | Machine Learning  
 
 ---
 
